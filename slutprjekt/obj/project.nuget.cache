@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CHc0Sz54PaR/Pc3xlrI3OVyAFa3jf8gZ4CmapfoKePnojCEUHprXb/cekzQ8iqZj4WRGLyBLafIqiwTTYUIWgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batkhuslen.boldbaat\\Documents\\progammering\\slutprjekt\\slutprjekt\\slutprjekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batkhuslen.boldbaat\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\batkhuslen.boldbaat\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
